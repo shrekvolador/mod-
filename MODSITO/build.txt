@@ -1,0 +1,4 @@
+displayName = S
+author = S
+version = 0.1
+modReferences = Luminance
